@@ -15,7 +15,7 @@ Easy Integrate Codeigniter with JWT
 
 #### Linux 
 
-![Screensh0t](https://i.postimg.cc/15P2Q9bQ/image.png)
+![Screensh0t](https://i.postimg.cc/9F7dJTLX/image.png)
 ```
 - go to root project > open terminal
 - php index.php sayang help
