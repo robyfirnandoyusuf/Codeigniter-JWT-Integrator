@@ -28,5 +28,9 @@ Easy Integrate Codeigniter with JWT
 - php 'YOUR FULLPATH TO PROJECT' (e.g : C:/xampp/htdocs/project) index.php sayang help
 ```
 
+### EXAMPLE RESULT
+
+![Screensh0t](https://i.postimg.cc/CKTSbyzL/image.png)
+
 :grin: happy c0ding<br />
 Author Nando : [@NothingtoCoding - Roby Firnando Yusuf](mailto:nothingtocoding@gmail.com)
